@@ -1,4 +1,4 @@
-[![jm-shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jm-shin&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![jm-shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jm-shin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Back-End Developer
 - server-side web application logic and integration and activities, like writing API
