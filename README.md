@@ -10,6 +10,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jm-shin&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />    
 
-- :orange_book: Focusing on JavaScript, TypeScript, Kotlin
+Let's be Pirates!
+- :orange_book: Focusing on JavaScript, TypeScript
 - :hammer: Backend Developer
-- :weight_lifting::running::bouncing_ball_person: Crossfit lover
+- :weight_lifting::running::bouncing_ball_person: Crossfit :thumbsup:
