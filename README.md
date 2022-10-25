@@ -13,4 +13,4 @@
 Let's be Pirates!
 - :orange_book: Focusing on TypeScript, Kotlin
 - :hammer: Backend Developer
-- :weight_lifting::running::bouncing_ball_person: Crossfit :thumbsup:
+- :weight_lifting: Weight Training:thumbsup:
