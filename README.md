@@ -2,7 +2,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jm-shin&count_private=true&show_icons=true&bg_color=00000000&hide_title=true&hide_border=true&theme=merko" />
 
-I am always doing that which I cannot do, in order that I may learn how to do it.
+- I am always doing that which I cannot do, in order that I may learn how to do it.
+- What I cannot create, I do not understand.
 - :hammer: Backend Developer
 - :weight_lifting: Weight Training
 
