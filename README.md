@@ -5,7 +5,6 @@
 - I am always doing that which I cannot do, in order that I may learn how to do it.
 - What I cannot create, I do not understand.
 - :hammer: Backend Developer
-- :weight_lifting: Weight Training
 
 ## 🔥 Interest
 <img src="https://img.shields.io/badge/-Object--Oriented%20Programming-orange">
